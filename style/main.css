@@ -82,6 +82,10 @@ body {
   padding: 3px 5px;
 }
 
+.idea-3 span {
+  display: block;
+}
+
 .five .idea-5 {
   font-size: 4rem;
 }
